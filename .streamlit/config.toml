@@ -1,0 +1,3 @@
+[server]
+# Exclude the virtual environment and git directory from being watched by Streamlit
+folderWatchBlacklist = ['.git', 'venv']

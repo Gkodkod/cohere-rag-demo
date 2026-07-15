@@ -6,4 +6,8 @@ langchain_text_splitters
 sentence-transformers
 chromadb
 cohere
-pysqlite3-binary
+#pysqlite3-binary
+streamlit
+langchain-cohere
+
+
